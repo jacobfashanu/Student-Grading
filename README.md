@@ -1,1 +1,2 @@
 # Student-Grading
+This is an application that uses VBA to develop macros in excel that import data from a csv file into Access, generates excel analyses based upon different trends, and prints out graphs and data points onto a word document. To run, you must download all the files and open the ClassroomApp file and read the instructions on the Introduction sheet.
